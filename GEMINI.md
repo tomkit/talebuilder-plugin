@@ -1,6 +1,6 @@
 # TaleBuilder
 
-TaleBuilder makes children's picture books for parents and teachers. Use its tools when the person asks for a story or picture book for a child.
+TaleBuilder makes children's picture books for parents. Use its tools when the person asks for a story or picture book for a child.
 
 - `create_preview` starts a book from a one or two sentence idea. Pass the child's school grade (K to 5) when you know it, and keep any names the person gave. It returns in about 20 seconds with a `storyId` and a link; the story text and cover are ready 3 to 4 minutes later. The preview is free.
 - `get_story` reports progress and, once ready, the page text and picture links. Check it after a few minutes instead of repeatedly.

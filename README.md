@@ -2,7 +2,7 @@
 
 Make children's picture books from Claude, ChatGPT, Gemini, Grok and other AI assistants. Describe an idea ("a shy owl who wants to sing in the forest choir, for a first grader") and [TaleBuilder](https://www.talebuilder.com) writes a ten-page story, draws the characters and the cover as a free preview, and can then illustrate every page.
 
-For parents and teachers. Books are made on your TaleBuilder account: you sign in once when you connect, and every book shows up in your library on talebuilder.com.
+For parents. Books are made on your TaleBuilder account: you sign in once when you connect, and every book shows up in your library on talebuilder.com.
 
 **Server URL:** `https://www.talebuilder.com/api/mcp` (remote MCP, Streamable HTTP, OAuth sign-in)
 
