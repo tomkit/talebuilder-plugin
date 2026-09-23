@@ -11,7 +11,7 @@ For parents. Books are made on your TaleBuilder account: you sign in once when y
 | Tool | What it does | Cost |
 | --- | --- | --- |
 | `create_preview` | Writes the story and draws the characters and cover from an idea, a theme and a grade (K to 5) | Free, up to 3 a day |
-| `get_story` | Progress, page text and picture links for a book | Free, read-only |
+| `get_story` | Shows a book by title words or id: progress, the storyboard, and the whole book to read in the chat where the app supports panels | Free, read-only |
 | `finish_story` | Illustrates every page of a ready preview | 11 acorns (a new account's sign-up bonus covers the first book) |
 | `list_my_stories` | Your 20 most recent books | Free, read-only |
 
