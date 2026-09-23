@@ -5,6 +5,17 @@
   "description": "Children's picture books from an idea: story, cast and cover free, then every page.",
   "version": "1.0.0",
   "websiteUrl": "https://www.talebuilder.com",
+  "repository": {
+    "url": "https://github.com/tomkit/talebuilder-plugin",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/tomkit/talebuilder-plugin/main/assets/icon.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
