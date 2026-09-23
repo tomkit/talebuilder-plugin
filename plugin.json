@@ -1,0 +1,31 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "talebuilder",
+  "version": "1.0.0",
+  "description": "Make personalized children's picture books from your AI assistant. Describe an idea and TaleBuilder writes the story, draws the characters and the cover as a free preview, then illustrates every page.",
+  "author": { "name": "TaleBuilder", "email": "support@talebuilder.com", "url": "https://www.talebuilder.com" },
+  "homepage": "https://www.talebuilder.com",
+  "repository": "https://github.com/tomkit/talebuilder-plugin",
+  "license": "MIT",
+  "keywords": ["children's books", "picture books", "stories", "reading", "education", "teachers", "parents"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "TaleBuilder",
+        "shortDescription": "Picture books for the children in your life",
+        "longDescription": "For parents and teachers. Describe a story idea, pick a grade from kindergarten to grade 5, and TaleBuilder writes a ten-page picture book, draws its characters and cover as a free preview, and can illustrate every page using acorns on your TaleBuilder account.",
+        "developerName": "TaleBuilder",
+        "category": "Education",
+        "capabilities": ["Read", "Write"],
+        "websiteURL": "https://www.talebuilder.com",
+        "defaultPrompt": [
+          "Use TaleBuilder to make a bedtime story about a shy owl who wants to sing, for a first grader.",
+          "Use TaleBuilder to check on my latest book."
+        ],
+        "brandColor": "#CC470E",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/logo.png"
+      }
+    }
+  }
+}

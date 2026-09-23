@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "talebuilder": { "type": "http", "url": "https://www.talebuilder.com/api/mcp" }
+  }
+}

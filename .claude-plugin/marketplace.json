@@ -1,0 +1,15 @@
+{
+  "name": "talebuilder",
+  "description": "TaleBuilder: make children's picture books from Claude.",
+  "owner": {
+    "name": "TaleBuilder",
+    "email": "support@talebuilder.com"
+  },
+  "plugins": [
+    {
+      "name": "talebuilder",
+      "source": "./",
+      "description": "Make personalized children's picture books from your AI assistant. Describe an idea and TaleBuilder writes the story, draws the characters and the cover as a free preview, then illustrates every page."
+    }
+  ]
+}

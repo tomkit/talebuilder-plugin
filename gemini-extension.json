@@ -1,0 +1,9 @@
+{
+  "name": "talebuilder",
+  "version": "1.0.0",
+  "description": "Make personalized children's picture books from your AI assistant. Describe an idea and TaleBuilder writes the story, draws the characters and the cover as a free preview, then illustrates every page.",
+  "mcpServers": {
+    "talebuilder": { "httpUrl": "https://www.talebuilder.com/api/mcp" }
+  },
+  "contextFileName": "GEMINI.md"
+}

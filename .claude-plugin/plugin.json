@@ -1,0 +1,10 @@
+{
+  "name": "talebuilder",
+  "version": "1.0.0",
+  "description": "Make personalized children's picture books from your AI assistant. Describe an idea and TaleBuilder writes the story, draws the characters and the cover as a free preview, then illustrates every page.",
+  "author": { "name": "TaleBuilder", "email": "support@talebuilder.com", "url": "https://www.talebuilder.com" },
+  "homepage": "https://www.talebuilder.com",
+  "repository": "https://github.com/tomkit/talebuilder-plugin",
+  "license": "MIT",
+  "keywords": ["children's books", "picture books", "stories", "education"]
+}
