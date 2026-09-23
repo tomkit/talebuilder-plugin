@@ -26,7 +26,7 @@
         "displayName": "TaleBuilder",
         "shortDescription": "Picture books starring your child's ideas",
         "longDescription": "For parents. Describe a story idea, pick your child's grade from kindergarten to grade 5, and TaleBuilder writes a ten-page picture book, draws its characters and cover as a free preview, and can illustrate every page using acorns on your TaleBuilder account.",
-        "developerName": "TaleBuilder",
+        "developerName": "Menlo Labs",
         "category": "Lifestyle",
         "capabilities": [
           "Read",
@@ -39,7 +39,9 @@
         ],
         "brandColor": "#CC470E",
         "composerIcon": "./assets/icon.png",
-        "logo": "./assets/logo.png"
+        "logo": "./assets/logo.png",
+        "privacyPolicyURL": "https://www.talebuilder.com/privacy",
+        "termsOfServiceURL": "https://www.talebuilder.com/terms"
       }
     }
   }

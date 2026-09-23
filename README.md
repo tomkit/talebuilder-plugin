@@ -74,6 +74,10 @@ Only packaging; the server runs at talebuilder.com.
 | `server.json` | [MCP Registry](https://registry.modelcontextprotocol.io) |
 | `assets/` | Icon and logo |
 
+## Privacy and terms
+
+[Privacy Policy](https://www.talebuilder.com/privacy) and [Terms of Service](https://www.talebuilder.com/terms). TaleBuilder is operated by Menlo Labs.
+
 ## Support
 
 support@talebuilder.com
